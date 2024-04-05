@@ -3,3 +3,6 @@ body{
     color: rgb(248, 58, 58);
     margin: 20px;
 }
+.imagenes img{
+    width: 100%;
+}
